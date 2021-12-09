@@ -1,0 +1,7 @@
+{
+    "env":{
+        "MONGO_USER": "Nasser123",
+        "MONGO_PASSWORD": "Nasser123",
+        "MONGO_DB": "GraphQLT"
+    }
+}
