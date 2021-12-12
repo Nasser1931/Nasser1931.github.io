@@ -25,4 +25,3 @@ mongoose.connect(`mongodb+srv://Nasser123:${process.env.MONGO_PASSWORD}@cluster0
     }).catch(err => {
         console.log(err)
     })
-
